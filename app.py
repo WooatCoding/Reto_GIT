@@ -1,2 +1,2 @@
 print('Módulo de login agregado')
-﻿print('Cambio en test')
+print('Cambio en test')
